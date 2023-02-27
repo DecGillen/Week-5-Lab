@@ -14,51 +14,10 @@ ul{
 	text-align: center;
 }
 	
-.header{
-	text-shadow: 1px 1px #8B4000;
-}
+
 
 .important{
 	text-decoration: underline;
 }
-@media(min-width:468px){
-.Container1 {
-	display: flex;
-	justify-content:flex-start;
-}
-.Container2 {
-	display: flex;
-	justify-content:flex-start;
-}
-}
-.Work-1 {
-	width: 49%;
-	order: 1;
-	flex-direction: column;
-	border:1px #ccc solid;
-    padding:10px;
-}
 
-.Work-2 {
-	width: 49%;
-	order: 2;
-	flex-direction: column;
-	border:1px #ccc solid;
-    padding:10px;
-}
 
-.Work-3 {
-	width: 49%;
-	order: 1;
-	flex-direction: column;
-	border:1px #ccc solid;
-    padding:10px;
-}
-
-.Work-4 {
-	width: 49%;
-	order: 2;
-	flex-direction: column;
-	border:1px #ccc solid;
-    padding:10px;
-}
