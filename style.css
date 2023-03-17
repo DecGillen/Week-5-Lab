@@ -1,23 +1,14 @@
 body{
-	background: #D3D3D3;
-	font-family: Helvetica;
-	color:	#0B0B45;
+	text-align: center;
+	background: #8DA7BE;
+	justify-content: center;
 }
 h1{
-	font-size: xx-large;
+	color:#43464A;
 }
-ul{
-	list-style-type: square;
+button{
+	background-color:#CDE6F5;
+}	
+.controls{
+	display: flex;
 }
-
-.center {
-	text-align: center;
-}
-	
-
-
-.important{
-	text-decoration: underline;
-}
-
-
